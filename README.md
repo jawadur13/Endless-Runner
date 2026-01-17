@@ -1,102 +1,71 @@
-🏃 Endless Runner Game
-A thrilling 3D perspective endless runner game built with pure HTML5, CSS3, and JavaScript. Navigate through three lanes, dodge obstacles, and see how far you can go!
+🏃 Endless Runner 
 
-🎮 Play Now
-https://endless-runner-steel.vercel.app/
+A fast-paced endless runner game built using only a single index.html file.
+Dodge obstacles, survive as long as possible, and push your reflexes to the limit!
 
-📸 Preview
-Experience fast-paced action with smooth controls and increasing difficulty as you progress!
+🌐 Live Demo: https://endless-runner-steel.vercel.app/
+
+🎮 Gameplay
+
+You control the player in an infinite running track where obstacles appear dynamically.
+Your goal is simple:
+
+✅ Avoid obstacles
+✅ Run as long as possible
+✅ Score higher each time
+
+🕹️ Controls
+
+⬅️ Left Arrow / A → Move Left
+
+➡️ Right Arrow / D → Move Right
+
+(If your game includes jump/slide, you can add here)
 
 ✨ Features
-3D Perspective View - Road extends into the distance for better anticipation
-Three-Lane System - Switch between left, center, and right lanes
-Dynamic Obstacles - Boxes and barriers spawn with increasing frequency
-Smooth Controls - Responsive keyboard controls for jumping, sliding, and lane switching
-Progressive Difficulty - Speed increases as your score grows
-Score Tracking - Real-time score and speed multiplier display
-Collision Detection - Precise hit detection for fair gameplay
-🎯 How to Play
-Controls
-← / → Arrow Keys - Switch lanes (left/right)
-↑ Arrow Key - Jump over low obstacles
-↓ Arrow Key - Slide under high barriers
-Objective
-Avoid all obstacles by jumping, sliding, or switching lanes
-Survive as long as possible to maximize your score
-Score increases with distance traveled (+10 points per obstacle passed)
-Game speed increases progressively to challenge your reflexes
-Tips
-🟥 Red Boxes - Jump over them or switch lanes
-🟧 Orange Barriers - Slide under them or avoid them
-⚡ Watch obstacles appear in the distance and plan ahead
-🎯 The game gets faster as you score higher - stay focused!
-🛠️ Technical Details
-Built With
-HTML5 Canvas - For rendering game graphics
-Vanilla JavaScript - No frameworks, pure JS game logic
-CSS3 - Responsive styling and UI elements
-Features Implemented
-Perspective rendering system for 3D road effect
-Distance-based scaling for obstacles
-Physics-based jumping mechanics
-Smooth lane transition animations
-Dynamic speed scaling system
-Collision detection with lane awareness
-🚀 Local Development
-Want to run it locally or modify the code?
 
-Clone the repository:
-bash
-git clone https://github.com/jawadur13/endless-runner.git
-cd endless-runner
-Open index.html in your browser:
-bash
-# On macOS
-open index.html
+✅ Fully playable endless runner
 
-# On Linux
-xdg-open index.html
+✅ One-file project (index.html) — no extra setup needed
 
-# On Windows
-start index.html
-That's it! No build process or dependencies required.
+✅ Smooth movement and obstacle spawning
 
-📁 Project Structure
-endless-runner/
-│
-├── index.html          # Complete game in a single file
-│                       # (HTML structure, CSS styles, JavaScript logic)
-└── README.md           # This file
-🎨 Customization
-The game is built as a single HTML file, making it easy to customize:
+✅ Score system with increasing difficulty
 
-Colors - Modify CSS gradients and color variables
-Speed - Adjust baseSpeed in the game object
-Difficulty - Change spawn intervals and speed multipliers
-Obstacles - Add new obstacle types in createObstacle()
-Controls - Customize key bindings in event listeners
-🤝 Contributing
-Contributions are welcome! Feel free to:
+✅ Clean UI and simple controls
 
-Report bugs
-Suggest new features
-Submit pull requests
-Share your high scores!
+✅ Runs directly in any modern browser
 
+🛠️ Built With
 
-🙏 Acknowledgments
-Inspired by classic endless runner games like Subway Surfers and Temple Run
-Built as a learning project to explore HTML5 Canvas and game development
-📊 Stats
-🎮 Single-file implementation
-📦 Zero dependencies
-🚀 Instant loading
-📱 Responsive design
-⚡ 60 FPS performance
+HTML5
 
-Made with ❤️ and JavaScript
+CSS3
 
-Play Now | Report Bug | Request Feature
+JavaScript
 
-Have fun and beat your high score! 🏆
+(Canvas / DOM-based rendering depending on your build)
 
+🚀 How to Run Locally
+
+Download or clone the repository
+
+Open index.html in any browser
+
+That’s it ✅
+
+📌 Future Improvements (Planned)
+
+🔊 Sound effects & background music
+
+🎨 Better environment visuals and textures
+
+📱 Mobile-friendly touch controls
+
+🏆 High score saving system
+
+⚡ Power-ups (speed boost, shield, slow-motion)
+
+👤 Author
+
+Md. Jawadur Rafid
