@@ -2,7 +2,7 @@
 A thrilling 3D perspective endless runner game built with pure HTML5, CSS3, and JavaScript. Navigate through three lanes, dodge obstacles, and see how far you can go!
 
 🎮 Play Now
-Play the game here!
+https://endless-runner-steel.vercel.app/
 
 📸 Preview
 Experience fast-paced action with smooth controls and increasing difficulty as you progress!
